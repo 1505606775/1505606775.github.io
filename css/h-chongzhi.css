@@ -1,0 +1,140 @@
+/*
+* @Author: dell
+* @Date:   2017-10-24 15:46:52
+* @Last Modified by:   dell
+* @Last Modified time: 2017-10-29 15:22:16
+*/
+.zhuangtai{
+	width: 100%;
+	height: .4rem;
+}
+.biaoti{
+	width: 100%;
+	height: .88rem;
+	color: #fff;
+	background: #666;
+	z-index: 9999999999;
+}
+.biaoti>p{
+	font-size: 36px;
+	text-align: center;
+	line-height: .9rem;
+}
+.biaoti>a>i{
+	display: block;
+	color: #fff;
+	font-size: 40px;
+	line-height: .9rem;
+	margin-left: .2rem;
+	float: left;
+}
+.dabeijing{
+	height: auto;
+	width: 100%;
+	background: #f5f5f5;
+}
+.buding1{
+	height: .2rem;
+	width: 100%
+}
+.zrbox{
+    width: 100%;
+    height: 1.7rem;
+    background: #fff;
+}
+.shuru{
+	width: 97%;
+	height: 1.5rem;
+	margin: .3rem .2rem;
+	border-bottom: .01rem solid #b0b0b0;
+	position: relative;
+}
+
+.shuru>p{
+	font-size: .36rem;
+	font-weight: 200;
+	color: #333333;
+}
+.zrbox2{
+	width: 100%;
+	height: 2.1rem;
+	background: #fff;
+	margin-top: .5rem;
+	padding-top: .1rem;
+}
+.shuru2{
+	width: 97%;
+	height: .6rem;
+	margin: .1rem .2rem;
+	border-bottom: .01rem solid #b0b0b0;
+	position: relative;
+}
+.shuru2>p{
+	font-size: .36rem;
+	font-weight: 200;
+	color: #333333;
+}
+.shuru>span{
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	font-size: 38px;
+	color: #333333;
+}
+.shuru>span:last-child{
+	font-size: 26px;
+	margin-left: .4rem;
+}
+.zhifufs{
+	width: 94%;
+	height: 1rem;
+	float: right;
+	margin: .1rem 0;
+	margin-left: .2rem;
+	border-bottom: .01rem solid #b0b0b0;
+}
+.zhifufs>p{
+	font-size: .3rem;
+	font-weight: 200;
+	line-height: 1rem;
+	float: left;
+}
+.zhifufs>i{
+	font-size: .6rem;
+	font-weight: 200;
+	line-height: 1.1rem;
+	float: right;
+	padding: 0 .3rem;
+	color: #b0b0b0;
+}
+.zf{
+    height: .8rem;
+    width: 74%;
+    background: #909090;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top: 8rem;
+    color: #fff;
+    font-size: .34rem;
+    text-align: center;
+    line-height: .8rem;
+
+}
+.buding2{
+	height: 6.6rem;
+	width: 100%;
+}
+.tishi{
+	height: .7rem;
+	width: 100%;
+	background: #e0e0e0;
+}
+.tishi>p{
+	font-size: .24rem;
+	font-weight: 300;
+	color: #5F6262;
+	text-align: center;
+	line-height: .6rem;
+}

@@ -1,0 +1,53 @@
+/*
+* @Author: dell
+* @Date:   2017-10-26 15:38:58
+* @Last Modified by:   dell
+* @Last Modified time: 2017-10-26 16:03:29
+*/
+.container-fluid{
+	width: 100%;
+}
+.container{
+	width: 100%;
+	margin: 0 auto;
+}
+@media screen and (max-width: 750px){
+	.xc-col-1{
+		width: calc(1/12*100%);
+	}
+	.xc-col-2{
+		width: calc(2/12*100%);
+	}
+	.xc-col-3{
+		width: calc(3/12*100%);
+	}
+	.xc-col-4{
+		width: calc(4/12*100%);
+	}
+	.xc-col-5{
+		width: calc(5/12*100%);
+	}
+	.xc-col-6{
+		width: calc(6/12*100%);
+	}
+	.xc-col-7{
+		width: calc(7/12*100%);
+	}
+	.xc-col-8{
+		width: calc(8/12*100%);
+	}
+	.xc-col-9{
+		width: calc(9/12*100%);
+	}
+	.xc-col-10{
+		width: calc(10/12*100%);
+	}
+	.xc-col-11{
+		width: calc(11/12*100%);
+	}
+	.xc-col-12{
+		width: calc(12/12*100%);
+	}
+    
+    
+}
